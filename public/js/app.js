@@ -1,4 +1,4 @@
-console.log('client side javascript is loaded')
+
 
 // this script is NOT node.js
 // it's browser (client-side) js
